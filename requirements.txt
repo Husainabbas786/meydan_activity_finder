@@ -1,0 +1,11 @@
+streamlit
+pandas>=2.2.0
+openai>=1.50.0
+llama-index-core
+llama-index-embeddings-openai
+llama-index-vector-stores-qdrant
+llama-index-llms-openai
+qdrant-client
+fuzzywuzzy
+python-levenshtein
+python-dotenv

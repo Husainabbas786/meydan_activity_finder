@@ -1,0 +1,84 @@
+{
+  "software": [
+    "application",
+    "app",
+    "program",
+    "coding",
+    "development",
+    "software development"
+  ],
+  "website": [
+    "web",
+    "site",
+    "web development",
+    "web design",
+    "online platform"
+  ],
+  "repair": [
+    "fix",
+    "fixing",
+    "maintenance",
+    "service",
+    "servicing"
+  ],
+  "car": [
+    "vehicle",
+    "auto",
+    "automobile",
+    "motor vehicle"
+  ],
+  "food": [
+    "restaurant",
+    "cafe",
+    "dining",
+    "catering",
+    "eatery"
+  ],
+  "import": [
+    "importing",
+    "trade",
+    "international trade"
+  ],
+  "export": [
+    "exporting",
+    "trade",
+    "international sales"
+  ],
+  "wholesale": [
+    "bulk",
+    "distributor",
+    "trading"
+  ],
+  "retail": [
+    "shop",
+    "store",
+    "selling"
+  ],
+  "consulting": [
+    "consultant",
+    "advisory",
+    "advice",
+    "consultancy"
+  ],
+  "design": [
+    "designing",
+    "designer",
+    "creative"
+  ],
+  "manufacturing": [
+    "production",
+    "factory",
+    "manufacturing"
+  ],
+  "clinic": [
+    "medical center",
+    "health center",
+    "healthcare"
+  ],
+  "training": [
+    "education",
+    "courses",
+    "learning",
+    "teaching"
+  ]
+}
