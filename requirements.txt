@@ -9,3 +9,4 @@ qdrant-client
 fuzzywuzzy
 python-levenshtein
 python-dotenv
+numpy

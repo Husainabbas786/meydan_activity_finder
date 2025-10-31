@@ -22,3 +22,11 @@ qdrant_storage/
 # OS
 .DS_Store
 Thumbs.db
+
+query_cache.json
+feedback_log.csv
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+
+API_ID.txt
