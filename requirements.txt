@@ -10,3 +10,4 @@ fuzzywuzzy
 python-levenshtein
 python-dotenv
 numpy
+openpyxl

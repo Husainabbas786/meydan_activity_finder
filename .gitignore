@@ -30,3 +30,5 @@ __pycache__/
 .streamlit/secrets.toml
 
 API_ID.txt
+
+query_accuracy_log.xlsx
